@@ -1,0 +1,177 @@
+
+{
+  "students": [
+    {
+      "lastName": "Smith",
+      "firstName": "John",
+      "photo": "https://example.com/photos/john-smith.jpg",
+      "grade": 10,
+      "scheduleDay1": [
+          { "roomNumber": 201, "dayNumber": 1, "channel": "A", "room": "Science Lab", "className": "Biology", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 1, "channel": "B", "room": "Math Wing", "className": "Algebra II", "section": 2 },
+          { "roomNumber": 108, "dayNumber": 1, "channel": "C", "room": "Humanities", "className": "English Literature", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 1, "channel": "D", "room": "History Hall", "className": "World History", "section": 3 },
+          { "roomNumber": 215, "dayNumber": 1, "channel": "E", "room": "Language Lab", "className": "Spanish III", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 1, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 301, "dayNumber": 1, "channel": "G", "room": "Computer Lab", "className": "Computer Science", "section": 2 },
+          { "roomNumber": 120, "dayNumber": 1, "channel": "H", "room": "Art Studio", "className": "Studio Art", "section": 1 }
+      ],
+      "scheduleDay2": [
+          { "roomNumber": 402, "dayNumber": 2, "channel": "A", "room": "History Hall", "className": "World History", "section": 3 },
+          { "roomNumber": 215, "dayNumber": 2, "channel": "B", "room": "Language Lab", "className": "Spanish III", "section": 1 },
+          { "roomNumber": 201, "dayNumber": 2, "channel": "C", "room": "Science Lab", "className": "Chemistry", "section": 2 },
+          { "roomNumber": 305, "dayNumber": 2, "channel": "D", "room": "Math Wing", "className": "Geometry", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 2, "channel": "E", "room": "Music Room", "className": "Music Theory", "section": 2 },
+          { "roomNumber": 0, "dayNumber": 2, "channel": "F", "room": "Club Room", "className": "Chess Club", "section": 0 },
+          { "roomNumber": 108, "dayNumber": 2, "channel": "G", "room": "Humanities", "className": "American Literature", "section": 2 },
+          { "roomNumber": 410, "dayNumber": 2, "channel": "H", "room": "Gymnasium", "className": "Physical Education", "section": 1 }
+      ],
+      "scheduleDay3": [
+          { "roomNumber": 301, "dayNumber": 3, "channel": "A", "room": "Computer Lab", "className": "Computer Science", "section": 2 },
+          { "roomNumber": 120, "dayNumber": 3, "channel": "B", "room": "Art Studio", "className": "Studio Art", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 3, "channel": "C", "room": "History Hall", "className": "US History", "section": 1 },
+          { "roomNumber": 215, "dayNumber": 3, "channel": "D", "room": "Language Lab", "className": "French II", "section": 3 },
+          { "roomNumber": 305, "dayNumber": 3, "channel": "E", "room": "Math Wing", "className": "Algebra II", "section": 2 },
+          { "roomNumber": 0, "dayNumber": 3, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 201, "dayNumber": 3, "channel": "G", "room": "Science Lab", "className": "Physics", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 3, "channel": "H", "room": "Music Room", "className": "Music Theory", "section": 2 }
+      ],
+      "scheduleDay4": [
+          { "roomNumber": 201, "dayNumber": 4, "channel": "A", "room": "Science Lab", "className": "Chemistry", "section": 2 },
+          { "roomNumber": 410, "dayNumber": 4, "channel": "B", "room": "Gymnasium", "className": "Physical Education", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 4, "channel": "C", "room": "Math Wing", "className": "Geometry", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 4, "channel": "D", "room": "Humanities", "className": "English Literature", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 4, "channel": "E", "room": "History Hall", "className": "World History", "section": 3 },
+          { "roomNumber": 0, "dayNumber": 4, "channel": "F", "room": "Club Room", "className": "Robotics Club", "section": 0 },
+          { "roomNumber": 215, "dayNumber": 4, "channel": "G", "room": "Language Lab", "className": "Spanish III", "section": 1 },
+          { "roomNumber": 120, "dayNumber": 4, "channel": "H", "room": "Art Studio", "className": "Studio Art", "section": 1 }
+      ],
+      "scheduleDay5": [
+          { "roomNumber": 305, "dayNumber": 5, "channel": "A", "room": "Math Wing", "className": "Geometry", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 5, "channel": "B", "room": "Music Room", "className": "Music Theory", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 5, "channel": "C", "room": "Science Lab", "className": "Biology", "section": 1 },
+          { "roomNumber": 410, "dayNumber": 5, "channel": "D", "room": "Gymnasium", "className": "Physical Education", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 5, "channel": "E", "room": "Humanities", "className": "English Literature", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 5, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 402, "dayNumber": 5, "channel": "G", "room": "History Hall", "className": "World History", "section": 3 },
+          { "roomNumber": 215, "dayNumber": 5, "channel": "H", "room": "Language Lab", "className": "Spanish III", "section": 1 }
+      ],
+      "scheduleDay6": [
+          { "roomNumber": 108, "dayNumber": 6, "channel": "A", "room": "Humanities", "className": "American Literature", "section": 2 },
+          { "roomNumber": 402, "dayNumber": 6, "channel": "B", "room": "History Hall", "className": "US History", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 6, "channel": "C", "room": "Math Wing", "className": "Algebra II", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 6, "channel": "D", "room": "Science Lab", "className": "Physics", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 6, "channel": "E", "room": "Music Room", "className": "Music Theory", "section": 2 },
+          { "roomNumber": 0, "dayNumber": 6, "channel": "F", "room": "Club Room", "className": "Drama Club", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 6, "channel": "G", "room": "Gymnasium", "className": "Physical Education", "section": 1 },
+          { "roomNumber": 120, "dayNumber": 6, "channel": "H", "room": "Art Studio", "className": "Studio Art", "section": 1 }
+      ],
+      "scheduleDay7": [
+          { "roomNumber": 215, "dayNumber": 7, "channel": "A", "room": "Language Lab", "className": "French II", "section": 3 },
+          { "roomNumber": 301, "dayNumber": 7, "channel": "B", "room": "Computer Lab", "className": "Web Development", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 7, "channel": "C", "room": "History Hall", "className": "US History", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 7, "channel": "D", "room": "Math Wing", "className": "Geometry", "section": 1 },
+          { "roomNumber": 201, "dayNumber": 7, "channel": "E", "room": "Science Lab", "className": "Biology", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 7, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 108, "dayNumber": 7, "channel": "G", "room": "Humanities", "className": "English Literature", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 7, "channel": "H", "room": "Music Room", "className": "Music Theory", "section": 2 }
+      ],
+      "scheduleDay8": [
+          { "roomNumber": 120, "dayNumber": 8, "channel": "A", "room": "Art Studio", "className": "Photography", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 8, "channel": "B", "room": "Science Lab", "className": "Physics", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 8, "channel": "C", "room": "Math Wing", "className": "Algebra II", "section": 2 },
+          { "roomNumber": 402, "dayNumber": 8, "channel": "D", "room": "History Hall", "className": "World History", "section": 3 },
+          { "roomNumber": 215, "dayNumber": 8, "channel": "E", "room": "Language Lab", "className": "Spanish III", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 8, "channel": "F", "room": "Club Room", "className": "Science Club", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 8, "channel": "G", "room": "Gymnasium", "className": "Physical Education", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 8, "channel": "H", "room": "Humanities", "className": "English Literature", "section": 1 }
+      ]
+    },
+    {
+      "lastName": "Johnson",
+      "firstName": "Emma",
+      "photo": "https://example.com/photos/emma-johnson.jpg",
+      "grade": 11,
+      "scheduleDay1": [
+          { "roomNumber": 305, "dayNumber": 1, "channel": "A", "room": "Math Wing", "className": "Pre-Calculus", "section": 1 },
+          { "roomNumber": 201, "dayNumber": 1, "channel": "B", "room": "Science Lab", "className": "Chemistry Honors", "section": 2 },
+          { "roomNumber": 108, "dayNumber": 1, "channel": "C", "room": "Humanities", "className": "AP English Language", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 1, "channel": "D", "room": "History Hall", "className": "AP US History", "section": 1 },
+          { "roomNumber": 215, "dayNumber": 1, "channel": "E", "room": "Language Lab", "className": "Spanish IV", "section": 2 },
+          { "roomNumber": 0, "dayNumber": 1, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 301, "dayNumber": 1, "channel": "G", "room": "Computer Lab", "className": "AP Computer Science", "section": 1 },
+          { "roomNumber": 120, "dayNumber": 1, "channel": "H", "room": "Art Studio", "className": "Digital Design", "section": 2 }
+      ],
+      "scheduleDay2": [
+          { "roomNumber": 108, "dayNumber": 2, "channel": "A", "room": "Humanities", "className": "AP English Language", "section": 1 },
+          { "roomNumber": 215, "dayNumber": 2, "channel": "B", "room": "Language Lab", "className": "Spanish IV", "section": 2 },
+          { "roomNumber": 305, "dayNumber": 2, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 2, "channel": "D", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 2, "channel": "E", "room": "Music Room", "className": "Jazz Band", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 2, "channel": "F", "room": "Club Room", "className": "Chess Club", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 2, "channel": "G", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 402, "dayNumber": 2, "channel": "H", "room": "History Hall", "className": "Economics", "section": 2 }
+      ],
+      "scheduleDay3": [
+          { "roomNumber": 402, "dayNumber": 3, "channel": "A", "room": "History Hall", "className": "AP US History", "section": 1 },
+          { "roomNumber": 301, "dayNumber": 3, "channel": "B", "room": "Computer Lab", "className": "AP Computer Science", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 3, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 3, "channel": "D", "room": "Science Lab", "className": "Chemistry Honors", "section": 2 },
+          { "roomNumber": 225, "dayNumber": 3, "channel": "E", "room": "Music Room", "className": "Jazz Band", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 3, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 3, "channel": "G", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 120, "dayNumber": 3, "channel": "H", "room": "Art Studio", "className": "Digital Design", "section": 2 }
+      ],
+      "scheduleDay4": [
+          { "roomNumber": 410, "dayNumber": 4, "channel": "A", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 225, "dayNumber": 4, "channel": "B", "room": "Music Room", "className": "Jazz Band", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 4, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 4, "channel": "D", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 4, "channel": "E", "room": "Humanities", "className": "Creative Writing", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 4, "channel": "F", "room": "Club Room", "className": "Drama Club", "section": 0 },
+          { "roomNumber": 402, "dayNumber": 4, "channel": "G", "room": "History Hall", "className": "AP US History", "section": 1 },
+          { "roomNumber": 215, "dayNumber": 4, "channel": "H", "room": "Language Lab", "className": "Spanish IV", "section": 2 }
+      ],
+      "scheduleDay5": [
+          { "roomNumber": 305, "dayNumber": 5, "channel": "A", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 5, "channel": "B", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 5, "channel": "C", "room": "Humanities", "className": "Creative Writing", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 5, "channel": "D", "room": "Music Room", "className": "Jazz Band", "section": 1 },
+          { "roomNumber": 410, "dayNumber": 5, "channel": "E", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 0, "dayNumber": 5, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 402, "dayNumber": 5, "channel": "G", "room": "History Hall", "className": "Economics", "section": 2 },
+          { "roomNumber": 301, "dayNumber": 5, "channel": "H", "room": "Computer Lab", "className": "AP Computer Science", "section": 1 }
+      ],
+      "scheduleDay6": [
+          { "roomNumber": 108, "dayNumber": 6, "channel": "A", "room": "Humanities", "className": "Creative Writing", "section": 1 },
+          { "roomNumber": 120, "dayNumber": 6, "channel": "B", "room": "Art Studio", "className": "Digital Design", "section": 2 },
+          { "roomNumber": 305, "dayNumber": 6, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 6, "channel": "D", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 6, "channel": "E", "room": "Music Room", "className": "Jazz Band", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 6, "channel": "F", "room": "Club Room", "className": "Drama Club", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 6, "channel": "G", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 402, "dayNumber": 6, "channel": "H", "room": "History Hall", "className": "AP US History", "section": 1 }
+      ],
+      "scheduleDay7": [
+          { "roomNumber": 215, "dayNumber": 7, "channel": "A", "room": "Language Lab", "className": "Latin III", "section": 1 },
+          { "roomNumber": 402, "dayNumber": 7, "channel": "B", "room": "History Hall", "className": "Economics", "section": 2 },
+          { "roomNumber": 305, "dayNumber": 7, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 7, "channel": "D", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 7, "channel": "E", "room": "Humanities", "className": "Creative Writing", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 7, "channel": "F", "room": "Cafeteria", "className": "Lunch", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 7, "channel": "G", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 120, "dayNumber": 7, "channel": "H", "room": "Art Studio", "className": "Digital Design", "section": 2 }
+      ],
+      "scheduleDay8": [
+          { "roomNumber": 301, "dayNumber": 8, "channel": "A", "room": "Computer Lab", "className": "Robotics", "section": 1 },
+          { "roomNumber": 225, "dayNumber": 8, "channel": "B", "room": "Music Room", "className": "Music History", "section": 1 },
+          { "roomNumber": 305, "dayNumber": 8, "channel": "C", "room": "Math Wing", "className": "Statistics", "section": 2 },
+          { "roomNumber": 201, "dayNumber": 8, "channel": "D", "room": "Science Lab", "className": "Biology II", "section": 1 },
+          { "roomNumber": 108, "dayNumber": 8, "channel": "E", "room": "Humanities", "className": "Creative Writing", "section": 1 },
+          { "roomNumber": 0, "dayNumber": 8, "channel": "F", "room": "Club Room", "className": "Drama Club", "section": 0 },
+          { "roomNumber": 410, "dayNumber": 8, "channel": "G", "room": "Gymnasium", "className": "Team Sports", "section": 2 },
+          { "roomNumber": 402, "dayNumber": 8, "channel": "H", "room": "History Hall", "className": "AP US History", "section": 1 }
+      ]
+    }
+  ]
+}
